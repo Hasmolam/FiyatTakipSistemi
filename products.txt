@@ -1,0 +1,8 @@
+# Her satıra bir ürün URL'si ekleyin
+# Yorum satırları # ile başlar ve dikkate alınmaz
+# Boş satırlar da dikkate alınmaz
+
+# Örnek ürünler:
+https://www.hepsiburada.com/xiaomi-redmi-note-11-pro-128-gb-8-gb-ram-xiaomi-turkiye-garantili-gri-p-HBCV00001X83MD
+https://www.trendyol.com/xiaomi/redmi-note-11-pro-128-gb-8-gb-ram-gri-cep-telefonu-xiaomi-turkiye-garantili-p-342008007?boutiqueId=61&merchantId=1008846
+https://www.n11.com/urun/xiaomi-redmi-note-11-pro-8-gb-128-gb-xiaomi-turkiye-garantili-3042752
